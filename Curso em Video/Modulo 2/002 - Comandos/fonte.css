@@ -1,0 +1,28 @@
+h1{
+    font-family: 'dancing script';
+    font-size: 3em;
+    text-align: center;
+    padding: 25px;
+    color: #000000;
+}
+
+p{
+    font-family: helvetica;
+}
+
+li{
+    font-family: 'Barlow Semi Condensed';
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    border-radius: 15px;
+    margin: 0 15px;
+}
+
+ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 0 15px;
+}
